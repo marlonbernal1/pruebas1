@@ -21,3 +21,4 @@ public class Bd {
             ""+TABLA_ROLES+" ("+CAMPO_ID+"  INTEGER PRIMARY KEY AUTOINCREMENT, "
             +CAMPO_NOMBRE+" TEXT) ";
 }
+git mas
